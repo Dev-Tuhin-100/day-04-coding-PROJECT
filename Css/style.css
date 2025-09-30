@@ -44,6 +44,7 @@ body{
 .profile_area{
    width: 50%;
     position: fixed;
+    height: 100vh;
 }
 .profile{
     margin: 0px 15px;
@@ -102,7 +103,7 @@ body{
 }
 hr{
     margin: 40px 0px;
-    background-color: #121415;
+    color: #121415;
 }
 .skill img{
     width: 100px;
@@ -117,11 +118,12 @@ hr{
 .protfuillo li a:hover{
     color: #FF014F;
 }
-/* content section end */
+/* content section start */
 .contact_form {
   max-width: 600px;
   margin: 50px auto;
   padding: 20px;
+  font-family: "Roboto", sans-serif;
 }
 
 .form_row {
@@ -141,6 +143,7 @@ label {
   font-size: 14px;
   text-transform: uppercase;
   color: #aaa;
+  font-family: "Roboto", sans-serif;
 }
 
 input, textarea {
@@ -157,6 +160,7 @@ input, textarea {
 input:focus, textarea:focus {
   border: 1px solid #ff004f; 
 }
+
 .submit{
     background-color: #181a1e;
 }
@@ -171,3 +175,4 @@ input:focus, textarea:focus {
     background-color: #ff014d4b;
     color: #aaa;
 }
+/* content section end*/
