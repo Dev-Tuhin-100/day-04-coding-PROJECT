@@ -87,6 +87,15 @@ body{
     background-color: #181a1e;
     color: rgb(255, 1, 79)
 }
+.socile_icon i {
+    font-size:30px;
+    color: white;
+    margin-top: 20px;
+}
+.gr_10{
+    margin-left: 15px;
+    margin-right: 15px;
+}
 /* profile section end */
 /* content section start */
 .content_area{
