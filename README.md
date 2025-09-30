@@ -24,4 +24,5 @@ Designed with a sleek **dark theme** and clean input fields for an elegant user 
 
 ## 📂 Project Structure
 
-https://dev-tuhin-100.github.io/day-04-coding-PROJECT/
+Project Link - https://dev-tuhin-100.github.io/day-04-coding-PROJECT/
+Figma - https://www.figma.com/proto/Fa3n9S84JEQop5Q0gPNjby/Web-to-Figma---Convert-any-website-or-HTML-code-to-design--Community-?node-id=3-2&t=8xKZsZNY9jyEmhGV-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A2
